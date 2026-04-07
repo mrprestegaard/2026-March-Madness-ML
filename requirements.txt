@@ -1,1 +1,11 @@
 
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+matplotlib
+seaborn
+beautifulsoup4
+requests
+rapidfuzz
