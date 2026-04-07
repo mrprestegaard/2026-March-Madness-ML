@@ -4,6 +4,15 @@ This project uses machine learning to predict NCAA March Madness basketball game
 
 The goal was to test whether a data-driven approach could outperform intuition in a real bracket challenge. Using engineered team-strength and matchup features, I trained and evaluated multiple models to predict head-to-head game outcomes. The final model helped power a winning office March Madness bracket.
 
+
+## Why This Project Matters
+
+This project demonstrates:
+- End-to-end machine learning workflow
+- Feature engineering on real-world data
+- Model selection and evaluation
+- Applying ML to a real decision-making problem
+- 
 ---
 
 ## Project Objective
