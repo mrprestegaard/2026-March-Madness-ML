@@ -46,6 +46,12 @@ To integrate external team ratings with Kaggle data, team names were cleaned and
 
 A major focus of the project was creating features that better represented team quality and matchup strength.
 
+
+## Feature Engineering
+
+See full feature definitions here:  
+[Feature Engineering Documentation](docs/features.md)
+
 ### Key features used in the men's model
 - `Elo_T1`
 - `Elo_T2`
