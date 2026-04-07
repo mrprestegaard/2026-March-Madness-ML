@@ -4,6 +4,7 @@ This project uses machine learning to predict NCAA March Madness basketball game
 
 The goal was to test whether a data-driven approach could outperform intuition in a real bracket challenge. Using engineered team-strength and matchup features, I trained and evaluated multiple models to predict head-to-head game outcomes. The final model helped power a winning office March Madness bracket.
 
+![Winning Bracket](docs/2026-Winning-Bracket.png)
 
 ## Why This Project Matters
 
