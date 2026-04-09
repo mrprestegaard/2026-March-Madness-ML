@@ -13,7 +13,7 @@ This project demonstrates:
 - Feature engineering on real-world data
 - Model selection and evaluation
 - Applying ML to a real decision-making problem
-- 
+  
 ---
 
 ## Project Objective
